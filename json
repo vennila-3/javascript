@@ -1,0 +1,13 @@
+a JavaScript program can easily convert JSON data into JavaScript objects. 
+designed explicitly for human-readable data interchange
+data interchange format in comparison to other available options, it can be used for API integration.
+JSON and XML are widely used as data interchange formats.
+
+JSON is easy to learn.	         XML is quite more complex to learn than JSON.
+It is simple to read and write.	 It is more complex to read and write than JSON.
+It is data-oriented.	           It is document-oriented.
+less secure                      XML is highly secured.
+It supports the array.	         It doesn't support the array
+
+JSON.parse():
+     convert object into 
